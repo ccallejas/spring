@@ -7,6 +7,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 import com.ccallejas.beans.Marca;
 
+/**@author Cleria
+ * Clase
+ * */
 @Repository
 public class DAOMarcaImpl implements DAOMarca {
 	
