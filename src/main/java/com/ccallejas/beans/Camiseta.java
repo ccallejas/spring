@@ -1,5 +1,8 @@
 package com.ccallejas.beans;
 
+/**@author Cleria
+ * Entidad
+ * */
 public class Camiseta {
 
 	private int id;
